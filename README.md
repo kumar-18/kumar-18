@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumar-18
 - 👀 I’m interested in Webdevelopmet
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking for an internship
+- 🌱 I’m currently working on Frontend development
+- 💞️ I’m looking for 
 - 📫 reddi18599@gmail.com
 
 <!---
