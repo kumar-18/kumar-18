@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Kumar Reddi</h1>
-<h4>👨‍💻 Full Stack Developer</h4>
+<h4>👨‍💻 Frontend Developer</h4>
 <p> 📫 reddi18599@gmail.com</p>
 <p>📞 +91 9849696083</p>
  <p> 🏡 Visahkaptnam</p>
